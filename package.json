@@ -1,0 +1,38 @@
+{
+	"name": "ga-mp-tester",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "Send test data by using Google Analytics 4 Measurement Protocol",
+	"homepage": "https://jooy2.com",
+	"main": "src/runner.js",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jooy2/ga-dummy-generator.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jooy2/vutron/issues"
+	},
+	"scripts": {
+		"start": "node src/runner.js"
+	},
+	"author": "jooy2 <jooy2.contact@gmail.com>",
+	"license": "MIT",
+	"engines": {
+		"node": ">=16.0.0"
+	},
+	"dependencies": {
+		"axios": "^1.4.0",
+		"dotenv": "^16.0.3",
+		"random-useragent": "^0.5.0",
+		"uuid": "^9.0.0"
+	},
+	"devDependencies": {
+		"@babel/eslint-parser": "^7.21.8",
+		"@babel/plugin-syntax-import-assertions": "^7.20.0",
+		"eslint": "^8.37.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-config-prettier": "^8.8.0",
+		"prettier": "^2.8.7"
+	}
+}

@@ -1,0 +1,9 @@
+[
+	{
+		"name": "page_view",
+		"params": {
+			"page_location": "/",
+			"page_title": "Page Name"
+		}
+	}
+]

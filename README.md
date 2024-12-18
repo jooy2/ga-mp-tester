@@ -6,7 +6,7 @@ Built for Google Analytics 4.
 
 ## How to use
 
-This project requires a **[NodeJS](https://nodejs.org)** (16.x or higher) installation to configure.
+This project requires a **[Node.js](https://nodejs.org)** (18.x or higher) installation to configure.
 
 For a detailed description of the Measurement Protocol API, see the links below.
 
@@ -59,6 +59,10 @@ Once you're done, send the request via the `npm` command below.
 $ npm run start
 ```
 
+## Contributing
+
+Anyone can contribute to the project by reporting new issues or submitting a pull request. For more information, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
-Copyright © 2023 [Jooy2](https://jooy2.com) <[jooy2.contact@gmail.com](mailto:jooy2.contact@gmail.com)> Released under the MIT license.
+Please see the [LICENSE](LICENSE) file for more information about project owners, usage rights, and more.

@@ -19,20 +19,20 @@
 	"author": "jooy2 <jooy2.contact@gmail.com>",
 	"license": "MIT",
 	"engines": {
-		"node": ">=16.0.0"
+		"node": ">=18.0.0"
 	},
 	"dependencies": {
-		"axios": "^1.4.0",
-		"dotenv": "^16.0.3",
+		"axios": "^1.7.9",
+		"dotenv": "^16.4.7",
 		"random-useragent": "^0.5.0",
-		"uuid": "^9.0.0"
+		"uuid": "^11.0.3"
 	},
 	"devDependencies": {
 		"@babel/eslint-parser": "^7.21.8",
-		"@babel/plugin-syntax-import-assertions": "^7.20.0",
+		"@babel/plugin-syntax-import-assertions": "^7.26.0",
 		"eslint": "^8.37.0",
 		"eslint-config-airbnb": "^19.0.4",
 		"eslint-config-prettier": "^8.8.0",
-		"prettier": "^2.8.7"
+		"prettier": "^3.4.2"
 	}
 }
